@@ -1,0 +1,22 @@
+
+.text-color-maroon {
+    color: #6F0A0A; 
+}
+
+.text-bold {
+    font-weight: bold;
+}
+
+/* MARKETING CONTENT
+-------------------------------------------------- */
+
+/* Center align the text within the three columns below the carousel */
+.marketing {
+    text-align: center;    
+}
+
+.spacer {
+    margin-top: 30px;
+}
+
+
